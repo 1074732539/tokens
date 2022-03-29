@@ -1,11 +1,11 @@
-﻿{
- "name": "LightCap",
- "website": "https://lightcap.cc/",
- "description": "Dare to explore and take the first step in the pursuit of wealth.",
- "explorer": "https://bscscan.com/token/0xB2350547c6CbdD4831c12f5a7695fC3840bB8768",
+{
+ "name": "YFSC",
+ "website": "http://xyfcoin.info",
+ "description": "XYF coin developed the first landing online mall application--YFSC coin.",
+ "explorer": "https://bscscan.com/token/0xec2DFaDCAa9b397aC57cC96De8391C2805709D0F",
  "type": "BEP20",
- "symbol": "LCP",
- "decimals": 18,
+ "symbol": "YFSC",
+ "decimals": 9,
  "status": "active",
- "id": "0xB2350547c6CbdD4831c12f5a7695fC3840bB8768"
+ "id": "0xec2DFaDCAa9b397aC57cC96De8391C2805709D0F"
 }
